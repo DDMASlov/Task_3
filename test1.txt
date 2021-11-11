@@ -1,0 +1,5 @@
+par=kot
+par#kottokfjdl
+par1 = kot1
+par p = kot2
+par2 = k$par1$2
